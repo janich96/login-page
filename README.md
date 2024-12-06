@@ -16,7 +16,7 @@ This project is a login form built using React. It features email and password i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/janich96/login-page.git
    cd your-repository
    ```
 
